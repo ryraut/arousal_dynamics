@@ -1,0 +1,8 @@
+metadata_version: 1
+name: Widefield prediction from pupil delay embedding
+description: Basic algorithm to predict widefield images from a delay embedding of
+  pupil diameter via a variational encoder-decoder.
+authors:
+- name: Ryan Raut
+  affiliations:
+  - name: Allen Institute
