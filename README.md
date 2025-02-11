@@ -1,5 +1,5 @@
 # Arousal dynamics codebase
-Jupyter notebooks for reproducing all paper analyses and figures are available in the notebooks directory.
+Code supporting all analyses in the preprint ["**Arousal as a universal embedding for spatiotemporal brain dynamics**"](https://doi.org/10.1101/2023.11.06.565918). Jupyter notebooks for reproducing all paper analyses and figures are available in the notebooks directory.
 
 ## Overview
 * The main pupil-widefield modeling pipeline is contained in **pupil_modeling_group.ipynb**
