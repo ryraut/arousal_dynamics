@@ -1,0 +1,21 @@
+name: arousal_dynamics
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyter
+  - ipywidgets
+  - pip
+  - pip:
+      - pydmd
+      - hmmlearn
+      - nilearn
+      - pysindy
+

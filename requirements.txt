@@ -1,0 +1,4 @@
+pydmd
+hmmlearn
+nilearn
+pysindy
