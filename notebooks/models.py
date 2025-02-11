@@ -11,8 +11,6 @@ from keras import layers
 from keras.callbacks import EarlyStopping
 
 def linear_regression(xtrain,ytrain):
-    
-    from sklearn.linear_model import LinearRegression
 
     L = LinearRegression()
     L.fit(xtrain,ytrain)
