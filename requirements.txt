@@ -1,4 +1,11 @@
-pydmd
-hmmlearn
-nilearn
-pysindy
+python 3.8
+numpy 1.24.4
+scipy 1.10.1
+scikit-learn 1.1.2
+tensorflow 2.10.0
+keras 2.10.0
+DeepLabCut 2.1.1
+hmmlearn 0.3.0
+pysindy 1.7.5
+PyDMD 2024.12.1
+ripple-detection 1.2.0
